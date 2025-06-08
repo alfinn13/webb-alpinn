@@ -1,0 +1,2 @@
+alert("Selamat datang di websitemu!");
+console.log("Website berhasil dijalankan.");
